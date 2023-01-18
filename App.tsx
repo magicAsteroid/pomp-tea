@@ -37,7 +37,7 @@ export default function App() {
       >
         <VStack space={5} alignItems="center">
           <NativeBaseIcon />
-          <Heading size="lg">Welcome to NativeBase</Heading>
+          <Heading size="lg">Welcome to seg-chan!</Heading>
           <HStack space={2} alignItems="center">
             <Text>Edit</Text>
             <Box
